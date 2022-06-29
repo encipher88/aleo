@@ -30,4 +30,5 @@ PNG (static) or APNG (animated) file type
 
 320 x 320 pixels exactly
 
-![image](https://user-images.githubusercontent.com/36136421/176514249-8b1ded31-37c1-4972-9861-5e30fe53a0d0.png)
+![Screenshot_39](https://user-images.githubusercontent.com/36136421/176514475-4492262f-dbcc-4e59-8114-45b8cd74541a.png)
+
